@@ -7,9 +7,8 @@ Para ello crearemos una paguina y le pondremos el nombre de "Portada", pero lo m
 <img src="Captura de pantalla 2025-02-16 155421.png" alt="Descripció de la imatge">
 
 <h3>Posteriormente Crearemos las paguinas que deben aparecer en la portada, desde el creador de paguinas. Para ello al crear las paguinas seleccionaremos la opcion "Paguina superior "portada""</h3>
-<img src="Captura de pantalla 2025-02-16 160104.png" alt="Descripció de la imatge">
 <img src="Captura de pantalla 2025-02-16 160407.png" alt="Descripció de la imatge">
-
+<img src="Captura de pantalla 2025-02-16 160104.png" alt="Descripció de la imatge">
 
 <h3>Una vez creadas las paguinas es momento de editar las plantillas. Para ello vamos al editor de paguinas y ahi seleccionamos una plantilla que se adapte al tipo de paguina que se busca, a partir de ahi añadimos y modificamos los bloques de la plantilla. En el caso de la paguina de la portada vamos a usar una plantilla unica para ella</h3>
 
