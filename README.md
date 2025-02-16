@@ -12,5 +12,7 @@ Para ello crearemos una paguina y le pondremos el nombre de "Portada", pero lo m
 
 
 <h3>Una vez creadas las paguinas es momento de editar las plantillas. Para ello vamos al editor de paguinas y ahi seleccionamos una plantilla que se adapte al tipo de paguina que se busca, a partir de ahi añadimos y modificamos los bloques de la plantilla. En el caso de la paguina de la portada vamos a usar una plantilla unica para ella</h3>
-<img src="Captura de pantalla 2025-02-16 161145.png" alt="Descripció de la imatge">
+
 <img src="Captura de pantalla 2025-02-16 153233.png" alt="Descripció de la imatge"> 
+<img src="Captura de pantalla 2025-02-16 161145.png" alt="Descripció de la imatge">
+<img src="Captura de pantalla 2025-02-16 154356.png" alt="Descripció de la imatge"> 
