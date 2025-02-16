@@ -33,6 +33,9 @@ Lo mas importante para añadir en el contenido de la paguina es escoger la plant
 <h3>El siguiente paso es construir las paguinas de nuestra web. Las 3 paguinas principales de mi web son, Pokemon rojo, Pokemon Auzl y Pokemon Amarillo. Todas ellas se pueden ver facilmente en la portada con sus respectivos enlaces adjuntados para entar en ellas. Lo primero para construir nuestras paguinas son las plantillas, para estas 3 paguinas vamos a escoger la misma plantilla. Esta se escoge desde el editor de paguinas y una vez este seleccionada añadimos y modificamos los bloques de la misma forma que lo hicimos con la portada</h3>
 <img src="Captura de pantalla 2025-02-16 172634.png" alt="Descripció de la imatge"> 
 <img src="Captura de pantalla 2025-02-16 171923.png" alt="Descripció de la imatge"> 
+<img src="Captura de pantalla 2025-02-16 172923.png" alt="Descripció de la imatge">
+
+<h3>Cuando la plantilla este acabada debemos asegurarnos que en la plantilla esta el bloque de contenido y una vez estemos seguros de ello podemos empezar a añadir el contenido en nuestra pagina</h3>
 
 <h2>Entradas</h2>
 <h3>Es el turno de las entradas, he añadido 3 entradas por cada paguina. Cada paguina representa un videojuego de pokemon y en cada entrada se encuentra inforrmacion sobre los pokemon que aparecen en cada ruta de el juego al que pertenezca la pagina, un analisis de los iniciales correspondientes del juego y una lista con todos los objetos y ubicaciones de ellos</h3>
