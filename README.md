@@ -28,3 +28,7 @@ Lo mas importante para añadir en el contenido de la paguina es escoger la plant
 <h3>Una vez tengamos la portada acabada empezaremos a crear los botones y accesos al resto de paguinas de nuestra web. Para ello volveremos a ir al creador de paguinas, entramos en la paguina de la que queramos crear el acceso y copiamos el enlace para despues adjuntarlo en el objeto de la plantilla de la portada que queramos.</h3>
 <img src="Captura de pantalla 2025-02-16 171210.png" alt="Descripció de la imatge">
 <img src="Captura de pantalla 2025-02-16 171318.png" alt="Descripció de la imatge"> 
+
+<h2>Paguinas</h2>
+<h3>El siguiente paso es construir las paguinas de nuestra web. Las 3 paguinas principales de mi web son, Pokemon rojo, Pokemon Auzl y Pokemon Amarillo. Todas ellas se pueden ver facilmente en la portada con sus respectivos enlaces adjuntados para entar en ellas. Lo primero para construir nuestras paguinas son las plantillas, para estas 3 paguinas vamos a escoger la misma plantilla</h3>
+<img src="Captura de pantalla 2025-02-16 171923.png" alt="Descripció de la imatge"> 
