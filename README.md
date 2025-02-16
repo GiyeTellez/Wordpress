@@ -1,3 +1,3 @@
 <head>
-    <>Guia definitiva Pokejuegos</>
+    <title> GUIA DEFINITIVA POKEJUEGOS <title/>
 </head>
