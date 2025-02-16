@@ -31,4 +31,5 @@ Lo mas importante para añadir en el contenido de la paguina es escoger la plant
 
 <h2>Paguinas</h2>
 <h3>El siguiente paso es construir las paguinas de nuestra web. Las 3 paguinas principales de mi web son, Pokemon rojo, Pokemon Auzl y Pokemon Amarillo. Todas ellas se pueden ver facilmente en la portada con sus respectivos enlaces adjuntados para entar en ellas. Lo primero para construir nuestras paguinas son las plantillas, para estas 3 paguinas vamos a escoger la misma plantilla</h3>
+<img src="Captura de pantalla 2025-02-16 172634.png" alt="Descripció de la imatge"> 
 <img src="Captura de pantalla 2025-02-16 171923.png" alt="Descripció de la imatge"> 
