@@ -25,6 +25,6 @@ Lo mas importante para añadir en el contenido de la paguina es escoger la plant
 <img src="Captura de pantalla 2025-02-16 164945.png" alt="Descripció de la imatge">
 <img src="Captura de pantalla 2025-02-16 170513.png" alt="Descripció de la imatge"> 
 
-Una vez tengamos la portada acabada empezaremos a crear los botones y accesos al resto de paguinas de nuestra web. Para ello volveremos a ir al creador de paguinas, entramos en la paguina de la que queramos crear el acceso y copiamos el enlace para despues adjuntarlo en el objeto de la plantilla de la portada que queramos.
+<h3>Una vez tengamos la portada acabada empezaremos a crear los botones y accesos al resto de paguinas de nuestra web. Para ello volveremos a ir al creador de paguinas, entramos en la paguina de la que queramos crear el acceso y copiamos el enlace para despues adjuntarlo en el objeto de la plantilla de la portada que queramos.</h3>
 <img src="Captura de pantalla 2025-02-16 171210.png" alt="Descripció de la imatge">
 <img src="Captura de pantalla 2025-02-16 171318.png" alt="Descripció de la imatge"> 
