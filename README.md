@@ -20,6 +20,6 @@ Para ello crearemos una paguina y le pondremos el nombre de "Portada", pero lo m
 Lo mas importante para añadir en el contenido de la paguina es escoger la plantilla que acabamos de modificar</h3>
 <img src="Captura de pantalla 2025-02-16 161910.png" alt="Descripció de la imatge"> 
 
-<h3>Para añadir contenido en la paguina es muy importante añadir el bloque de contenido de la paguina dentro de la plantilla. Una vez tenemos el ese bloque en el lugar que queramos de nuestra plantilla podemos añadir el contenido dentro de la paguina</h3>
+<h3>Para añadir contenido en la paguina es muy importante añadir el bloque de contenido de la paguina dentro de la plantilla. Una vez tenemos el ese bloque en el lugar que queramos de nuestra plantilla podemos añadir el contenido dentro de la paguina. En este caso es un formulario el cual se añade gracias al plugin "Contact Form" que nos da un shortcode para copiar y pegar en el contenido de la paguina que queramos</h3>
 <img src="Captura de pantalla 2025-02-16 161636.png" alt="Descripció de la imatge"> 
 <img src="Captura de pantalla 2025-02-16 164945.png" alt="Descripció de la imatge"> 
