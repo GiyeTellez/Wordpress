@@ -32,4 +32,12 @@ Lo mas importante para añadir en el contenido de la paguina es escoger la plant
 <h2>Paguinas</h2>
 <h3>El siguiente paso es construir las paguinas de nuestra web. Las 3 paguinas principales de mi web son, Pokemon rojo, Pokemon Auzl y Pokemon Amarillo. Todas ellas se pueden ver facilmente en la portada con sus respectivos enlaces adjuntados para entar en ellas. Lo primero para construir nuestras paguinas son las plantillas, para estas 3 paguinas vamos a escoger la misma plantilla. Esta se escoge desde el editor de paguinas y una vez este seleccionada añadimos y modificamos los bloques de la misma forma que lo hicimos con la portada</h3>
 <img src="Captura de pantalla 2025-02-16 172634.png" alt="Descripció de la imatge"> 
-<img src="Captura de pantalla 2025-02-16 171923.png" alt="Descripció de la imatge"> 
+<img src="Captura de pantalla 2025-02-16 171923.png" alt="Descripció de la imatge">
+<img src="Captura de pantalla 2025-02-16 172923.png" alt="Descripció de la imatge">
+
+<h3>De la misma manera que hicimos en la portada, ahora es momento de rellenar el contenido de la primera paguina, en este caso empezaremos por Pokemon Rojo. Para ello tendremos que añadir en la plantilla el bloque de contenido y evidentemente añadir contenido dentro de la paguina</h3>
+<h3>En el contenido de la primer paguina he añadido 3 enlaces a las 3 entradas correspondientesm, ademas he añadido dos imagenes y un mapa con la ayuda del plugin "Open street map" que me ofrece un shortcode con el que se puede añadir un mapa interactivo en la paguina</h3>
+<img src="Captura de pantalla 2025-02-16 174424.png" alt="Descripció de la imatge">
+<img src="Captura de pantalla 2025-02-16 175246.png" alt="Descripció de la imatge">
+
+
