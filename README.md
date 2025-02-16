@@ -19,3 +19,8 @@ Para ello crearemos una paguina y le pondremos el nombre de "Portada", pero lo m
 
 <h3>Cuando la plantilla de la portada este acabada añadimos el contenido de la portada. Al tener la portada una plantilla unica no habra mucho contenido que añadir ya que aprovecharemos la plantilla para personalizarla especificamente para el aspecto de la portada.
 Lo mas importante para añadir en el contenido de la paguina es escoger la plantilla que acabamos de modificar</h3>
+<img src="Captura de pantalla 2025-02-16 161910.png" alt="Descripció de la imatge"> 
+
+<h3>Para añadir contenido en la paguina es muy importante añadir el bloque de contenido de la paguina dentro de la plantilla. Una vez tenemos el ese bloque en el lugar que queramos de nuestra plantilla podemos añadir el contenido dentro de la paguina</h3>
+<img src="Captura de pantalla 2025-02-16 161636.png" alt="Descripció de la imatge"> 
+<img src="Captura de pantalla 2025-02-16 164945.png" alt="Descripció de la imatge"> 
