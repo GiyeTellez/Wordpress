@@ -1,4 +1,4 @@
-<h1>MAKING OFF GUIA DEFINITVA POKEJUEGOS</h1>
+![imatge](https://github.com/user-attachments/assets/985b6bb8-18c2-4e74-a627-0695b3a3ccee)<h1>MAKING OFF GUIA DEFINITVA POKEJUEGOS</h1>
 
 <h2>Portada</h2>
 <h3>Lo primero que hay que hacer para crear una paguina web es empezar por la portada. 
@@ -41,4 +41,15 @@ Lo mas importante para añadir en el contenido de la paguina es escoger la plant
 <h3>Es el turno de las entradas, he añadido 3 entradas por cada paguina. Cada paguina representa un videojuego de pokemon y en cada entrada se encuentra inforrmacion sobre los pokemon que aparecen en cada ruta de el juego al que pertenezca la pagina, un analisis de los iniciales correspondientes del juego y una lista con todos los objetos y ubicaciones de ellos</h3>
 
 <h3>Ejemplo: Entradas de pokemon rojo</h3>
+
+<h2>Seleccionamos la plantilla</h2>
+<img src="Captura de pantalla de 2025-02-25 12-20-24.png" alt="Descripció de la imatge">
+<h2>Añadimos el bloque de contenido</h2>
+<img src="Captura de pantalla de 2025-02-25 12-22-53.png" alt="Descripció de la imatge">
+<h2>Añadimos el contenido dentro de la entrada</h2>
+<img src="Captura de pantalla de 2025-02-25 12-25-38.png" alt="Descripció de la imatge">
+Resultado final de la entrada
+<img src="Captura de pantalla de 2025-02-25 12-27-14.png" alt="Descripció de la imatge">
+
+
 
