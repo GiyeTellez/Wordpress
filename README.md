@@ -39,3 +39,6 @@ Lo mas importante para añadir en el contenido de la paguina es escoger la plant
 
 <h2>Entradas</h2>
 <h3>Es el turno de las entradas, he añadido 3 entradas por cada paguina. Cada paguina representa un videojuego de pokemon y en cada entrada se encuentra inforrmacion sobre los pokemon que aparecen en cada ruta de el juego al que pertenezca la pagina, un analisis de los iniciales correspondientes del juego y una lista con todos los objetos y ubicaciones de ellos</h3>
+
+<h3>Ejemplo: Entradas de pokemon rojo</h3>
+
